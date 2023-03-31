@@ -118,7 +118,7 @@ class ProductListController extends Controller
                     ->select('product_lists.*')
                     ->get();
                     
-        return response()->json($result);
+        return DataTables($result)->make(true);
 
     }
 }

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>We Are Designers</title>
+    <title>Evolve</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/css/adminlte.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
@@ -63,7 +63,7 @@
             <!-- <div class="float-right d-none d-sm-block">
                 <b>Version</b> 3.0.5
             </div> -->
-            <strong>Copyright &copy; 2022 <a href="https://www.wearedesigners.net/">We are Designers</a>.</strong> All rights
+            <strong>Copyright &copy; 2022 <a href="">evolve</a>.</strong> All rights
             reserved.
         </footer>
 </div>

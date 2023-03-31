@@ -50,7 +50,7 @@
       <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">Add Product</h4>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
@@ -64,7 +64,8 @@
                                         <th style="width:10%">ID</th>
                                         <th style="width:40%">Name</th>
                                         <th style="width:40%">Email</th>
-                                        <th style="width:10%">Action</th>
+                                        <th style="width:40%">Price</th>
+                                        <th style="width:40%">Description</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -75,7 +76,7 @@
                 </div>
             </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-outline-dark" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Close</button>
           </div>
       </div>
     </div>
@@ -391,7 +392,7 @@
                         var html = "";
                         html+="<td><button class='btn btn-warning btn-sm edit' data='"+d.id+"' title='Edit'><i class='fas fa-edit'></i></button>";
                         html+="&nbsp;<button class='btn btn-danger btn-sm delete' data='"+d.id+"' title='Delete'><i class='fas fa-trash'></i></button>";
-                        html+="&nbsp;<button class='btn btn-danger btn-sm product_details' data='"+d.id+"' title='Delete'><i class='fas fa-trash'></i></button>";
+                        html+="&nbsp;<button class='btn btn-primary btn-sm product_details' data='"+d.id+"' title='Delete'><i class='fas fa-arrow-alt-circle-left'></i></button>";
                         return html;
 
                     }
@@ -418,18 +419,8 @@
                     {data: 'id'},
                     {data: 'product_name'},
                     {data: 'quntity'},
-
-                    {
-                    data: null,
-                    render: function(d){
-                        var html = "";
-                        html+="<td><button class='btn btn-warning btn-sm edit' data='"+d.id+"' title='Edit'><i class='fas fa-edit'></i></button>";
-                        html+="&nbsp;<button class='btn btn-danger btn-sm delete' data='"+d.id+"' title='Delete'><i class='fas fa-trash'></i></button>";
-                        return html;
-
-                    }
-
-                    }
+                    {data: 'price'},
+                    {data: 'desciption'},
                 ]
             });
     }
