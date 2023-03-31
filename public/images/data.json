@@ -1,0 +1,1133 @@
+[
+   {
+      "id":16371,
+      "total_amount":2000,
+      "courier_id":"59",
+      "courier_remarks":null,
+      "customer_code":null,
+      "customer_name":"Beehives Industries",
+      "invoice":null,
+      "paid_amount":2000,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346564570",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T11:15:40.000000Z",
+      "payment_method_info":[
+         {
+            "id":16378,
+            "cash_collect_id":16371,
+            "type":1,
+            "amount":2000,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T11:15:40.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8511,
+            "cash_collect_id":16371,
+            "type":"freight",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:15:40.000000Z"
+         },
+         {
+            "id":8512,
+            "cash_collect_id":16371,
+            "type":"handling",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:15:40.000000Z"
+         },
+         {
+            "id":8513,
+            "cash_collect_id":16371,
+            "type":"freight",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:15:40.000000Z"
+         },
+         {
+            "id":8514,
+            "cash_collect_id":16371,
+            "type":"other",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:15:40.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":0,
+         "handling":0,
+         "insurance":"null",
+         "others":0
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 11:15",
+      "cash_amount":2000
+   },
+   {
+      "id":16372,
+      "total_amount":2000,
+      "courier_id":"59",
+      "courier_remarks":null,
+      "customer_code":null,
+      "customer_name":"Brilliant Cuts pvt ltd",
+      "invoice":null,
+      "paid_amount":2000,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346564823",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T11:20:18.000000Z",
+      "payment_method_info":[
+         {
+            "id":16379,
+            "cash_collect_id":16372,
+            "type":1,
+            "amount":2000,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T11:20:18.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8515,
+            "cash_collect_id":16372,
+            "type":"freight",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:20:18.000000Z"
+         },
+         {
+            "id":8516,
+            "cash_collect_id":16372,
+            "type":"handling",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:20:18.000000Z"
+         },
+         {
+            "id":8517,
+            "cash_collect_id":16372,
+            "type":"freight",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:20:18.000000Z"
+         },
+         {
+            "id":8518,
+            "cash_collect_id":16372,
+            "type":"other",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:20:18.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":0,
+         "handling":0,
+         "insurance":"null",
+         "others":0
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 11:20",
+      "cash_amount":2000
+   },
+   {
+      "id":16373,
+      "total_amount":1250,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"Sapphire cutters",
+      "invoice":null,
+      "paid_amount":1250,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346531306",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T11:25:48.000000Z",
+      "payment_method_info":[
+         {
+            "id":16380,
+            "cash_collect_id":16373,
+            "type":1,
+            "amount":1250,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T11:25:48.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8519,
+            "cash_collect_id":16373,
+            "type":"freight",
+            "amount":0,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T11:25:48.000000Z"
+         },
+         {
+            "id":8520,
+            "cash_collect_id":16373,
+            "type":"handling",
+            "amount":0,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T11:25:48.000000Z"
+         },
+         {
+            "id":8521,
+            "cash_collect_id":16373,
+            "type":"freight",
+            "amount":0,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T11:25:48.000000Z"
+         },
+         {
+            "id":8522,
+            "cash_collect_id":16373,
+            "type":"other",
+            "amount":0,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T11:25:48.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":0,
+         "handling":0,
+         "insurance":"null",
+         "others":0
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 11:25",
+      "cash_amount":1250
+   },
+   {
+      "id":16375,
+      "total_amount":2000,
+      "courier_id":"59",
+      "courier_remarks":null,
+      "customer_code":null,
+      "customer_name":"Sithy Gems",
+      "invoice":null,
+      "paid_amount":2000,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"771296007546",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T11:34:00.000000Z",
+      "payment_method_info":[
+         {
+            "id":16382,
+            "cash_collect_id":16375,
+            "type":1,
+            "amount":2000,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T11:34:00.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8523,
+            "cash_collect_id":16375,
+            "type":"freight",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:34:00.000000Z"
+         },
+         {
+            "id":8524,
+            "cash_collect_id":16375,
+            "type":"handling",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:34:00.000000Z"
+         },
+         {
+            "id":8525,
+            "cash_collect_id":16375,
+            "type":"freight",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:34:00.000000Z"
+         },
+         {
+            "id":8526,
+            "cash_collect_id":16375,
+            "type":"other",
+            "amount":0,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:34:00.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":0,
+         "handling":0,
+         "insurance":"null",
+         "others":0
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 11:34",
+      "cash_amount":2000
+   },
+   {
+      "id":16376,
+      "total_amount":40150,
+      "courier_id":"59",
+      "courier_remarks":null,
+      "customer_code":null,
+      "customer_name":"Sathmira gems",
+      "invoice":null,
+      "paid_amount":40150,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346530420",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T11:55:00.000000Z",
+      "payment_method_info":[
+         {
+            "id":16383,
+            "cash_collect_id":16376,
+            "type":1,
+            "amount":40150,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T11:55:00.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8527,
+            "cash_collect_id":16376,
+            "type":"freight",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:55:00.000000Z"
+         },
+         {
+            "id":8528,
+            "cash_collect_id":16376,
+            "type":"handling",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:55:00.000000Z"
+         },
+         {
+            "id":8529,
+            "cash_collect_id":16376,
+            "type":"freight",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:55:00.000000Z"
+         },
+         {
+            "id":8530,
+            "cash_collect_id":16376,
+            "type":"other",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T11:55:00.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 11:55",
+      "cash_amount":40150
+   },
+   {
+      "id":16379,
+      "total_amount":41400,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"Apple Gems",
+      "invoice":null,
+      "paid_amount":41400,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346520250",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T12:29:26.000000Z",
+      "payment_method_info":[
+         {
+            "id":16386,
+            "cash_collect_id":16379,
+            "type":1,
+            "amount":41400,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T12:29:26.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8535,
+            "cash_collect_id":16379,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:29:26.000000Z"
+         },
+         {
+            "id":8536,
+            "cash_collect_id":16379,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:29:26.000000Z"
+         },
+         {
+            "id":8537,
+            "cash_collect_id":16379,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:29:26.000000Z"
+         },
+         {
+            "id":8538,
+            "cash_collect_id":16379,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:29:26.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 12:29",
+      "cash_amount":41400
+   },
+   {
+      "id":16380,
+      "total_amount":41400,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"H & H Gems",
+      "invoice":null,
+      "paid_amount":41400,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346532059",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T12:44:49.000000Z",
+      "payment_method_info":[
+         {
+            "id":16387,
+            "cash_collect_id":16380,
+            "type":1,
+            "amount":41400,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T12:44:49.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8539,
+            "cash_collect_id":16380,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:44:49.000000Z"
+         },
+         {
+            "id":8540,
+            "cash_collect_id":16380,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:44:49.000000Z"
+         },
+         {
+            "id":8541,
+            "cash_collect_id":16380,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:44:49.000000Z"
+         },
+         {
+            "id":8542,
+            "cash_collect_id":16380,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:44:49.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 12:44",
+      "cash_amount":41400
+   },
+   {
+      "id":16381,
+      "total_amount":41400,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"The City Gem International",
+      "invoice":null,
+      "paid_amount":41400,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346531718",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T12:47:13.000000Z",
+      "payment_method_info":[
+         {
+            "id":16388,
+            "cash_collect_id":16381,
+            "type":1,
+            "amount":41400,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T12:47:13.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8543,
+            "cash_collect_id":16381,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:47:13.000000Z"
+         },
+         {
+            "id":8544,
+            "cash_collect_id":16381,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:47:13.000000Z"
+         },
+         {
+            "id":8545,
+            "cash_collect_id":16381,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:47:13.000000Z"
+         },
+         {
+            "id":8546,
+            "cash_collect_id":16381,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:47:13.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 12:47",
+      "cash_amount":41400
+   },
+   {
+      "id":16382,
+      "total_amount":41150,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"ASHFAK GEMS",
+      "invoice":null,
+      "paid_amount":41150,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346531990",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T12:51:15.000000Z",
+      "payment_method_info":[
+         {
+            "id":16389,
+            "cash_collect_id":16382,
+            "type":1,
+            "amount":41150,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T12:51:15.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8547,
+            "cash_collect_id":16382,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:51:15.000000Z"
+         },
+         {
+            "id":8548,
+            "cash_collect_id":16382,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:51:15.000000Z"
+         },
+         {
+            "id":8549,
+            "cash_collect_id":16382,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:51:15.000000Z"
+         },
+         {
+            "id":8550,
+            "cash_collect_id":16382,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:51:15.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 12:51",
+      "cash_amount":41150
+   },
+   {
+      "id":16383,
+      "total_amount":41400,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"Echelon International Company",
+      "invoice":null,
+      "paid_amount":41400,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346532200",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T12:55:20.000000Z",
+      "payment_method_info":[
+         {
+            "id":16390,
+            "cash_collect_id":16383,
+            "type":1,
+            "amount":41400,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T12:55:20.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8551,
+            "cash_collect_id":16383,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:55:20.000000Z"
+         },
+         {
+            "id":8552,
+            "cash_collect_id":16383,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:55:20.000000Z"
+         },
+         {
+            "id":8553,
+            "cash_collect_id":16383,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:55:20.000000Z"
+         },
+         {
+            "id":8554,
+            "cash_collect_id":16383,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:55:20.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 12:55",
+      "cash_amount":41400
+   },
+   {
+      "id":16384,
+      "total_amount":41400,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"Echelon International Company",
+      "invoice":null,
+      "paid_amount":41400,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346532060",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T12:56:52.000000Z",
+      "payment_method_info":[
+         {
+            "id":16391,
+            "cash_collect_id":16384,
+            "type":1,
+            "amount":41400,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T12:56:52.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8555,
+            "cash_collect_id":16384,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:56:52.000000Z"
+         },
+         {
+            "id":8556,
+            "cash_collect_id":16384,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:56:52.000000Z"
+         },
+         {
+            "id":8557,
+            "cash_collect_id":16384,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:56:52.000000Z"
+         },
+         {
+            "id":8558,
+            "cash_collect_id":16384,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T12:56:52.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 12:56",
+      "cash_amount":41400
+   },
+   {
+      "id":16385,
+      "total_amount":41400,
+      "courier_id":"59",
+      "courier_remarks":null,
+      "customer_code":null,
+      "customer_name":"Paraiba International",
+      "invoice":null,
+      "paid_amount":41400,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346530218",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T13:01:51.000000Z",
+      "payment_method_info":[
+         {
+            "id":16392,
+            "cash_collect_id":16385,
+            "type":1,
+            "amount":41400,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T13:01:52.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8559,
+            "cash_collect_id":16385,
+            "type":"freight",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T13:01:52.000000Z"
+         },
+         {
+            "id":8560,
+            "cash_collect_id":16385,
+            "type":"handling",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T13:01:52.000000Z"
+         },
+         {
+            "id":8561,
+            "cash_collect_id":16385,
+            "type":"freight",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T13:01:52.000000Z"
+         },
+         {
+            "id":8562,
+            "cash_collect_id":16385,
+            "type":"other",
+            "amount":40150,
+            "remarks":" ",
+            "created_at":"2023-02-14T13:01:52.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 13:01",
+      "cash_amount":41400
+   },
+   {
+      "id":16386,
+      "total_amount":40900,
+      "courier_id":"59",
+      "courier_remarks":"Entry charges",
+      "customer_code":null,
+      "customer_name":"Nazhath Gems",
+      "invoice":null,
+      "paid_amount":40900,
+      "supervisor_name":"Tuwan Marso",
+      "credit":0,
+      "status":"approve",
+      "awb_number":"815346532048",
+      "pay_stat":"part",
+      "type":"pup",
+      "batch_id":4132,
+      "cashier_remarks":null,
+      "cashier_id":null,
+      "created_at":"2023-02-14T13:06:49.000000Z",
+      "payment_method_info":[
+         {
+            "id":16393,
+            "cash_collect_id":16386,
+            "type":1,
+            "amount":40900,
+            "remarks_1":null,
+            "remarks_2":null,
+            "remarks_3":null,
+            "created_at":"2023-02-14T13:06:49.000000Z"
+         }
+      ],
+      "pup_amount_info":[
+         {
+            "id":8563,
+            "cash_collect_id":16386,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T13:06:49.000000Z"
+         },
+         {
+            "id":8564,
+            "cash_collect_id":16386,
+            "type":"handling",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T13:06:49.000000Z"
+         },
+         {
+            "id":8565,
+            "cash_collect_id":16386,
+            "type":"freight",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T13:06:49.000000Z"
+         },
+         {
+            "id":8566,
+            "cash_collect_id":16386,
+            "type":"other",
+            "amount":40150,
+            "remarks":"Entry charges",
+            "created_at":"2023-02-14T13:06:49.000000Z"
+         }
+      ],
+      "courier_info":{
+         "id":59,
+         "first_name":"Preethi",
+         "last_name":"Kumara",
+         "fedex_id":"518672",
+         "telephone":null,
+         "phone":"0777735599",
+         "picture":null,
+         "stat":"yes",
+         "created_at":"2022-10-20T04:40:07.000000Z"
+      },
+      "courier_name":"Preethi Kumara",
+      "attributes":{
+         "freight":40150,
+         "handling":40150,
+         "insurance":"null",
+         "others":40150
+      },
+      "cashire_name":"Madhawa Mendis",
+      "collected_date":"2023-02-14 13:06",
+      "cash_amount":40900
+   }
+]
